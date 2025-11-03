@@ -1,6 +1,6 @@
 ## Welcome to **TreeLife**, your guide to learning about the beauty, diversity, and importance of trees around the world
 
-## **About Us**
+### **About Us**
 
 At **Treelife**, we're passionate about forests and green living.
 
